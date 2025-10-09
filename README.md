@@ -1,10 +1,33 @@
-## **Hello! Welcome to my GitHub! 👋**
+## 👋 Hello and Welcome to My GitHub!
 
-![](https://komarev.com/ghpvc/?username=matthewoneil0)
+![](https://komarev.com/ghpvc/?username=matthewoneil0&label=Profile+Views)
 
-I am a SOC Analyst in the United States. This is my personal GitHub and in no way related to my professional services. 
-This page is more for personal projects, forks of cool code, and whatever else.
+I'm a SOC 
+This is my ***personal GitHub***, where I share:
 
-![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewoneil0&show_icons=true&theme=vision-friendly-dark)
+- 🚧 Work-in-progress tools  
+- 🔁 Forks of interesting and useful code  
+- 🧪 Security Research
+- 📚 Things I’m learning or testing out
 
-My activity on any and all of these platforms varies depending on how much time I have to spend on writing, projects, and hacking.
+> ⚠️ **Disclaimer:** The content here is not affiliated with my employer. All opinions and code are my own.
+
+---
+
+## 🧰 Tech Stack & Tools
+
+Here’s what I commonly use or tinker with:
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats (***never super impressive***)
+
+![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewoneil0&show_icons=true&theme=vision-friendly-dark&count_private=true)
