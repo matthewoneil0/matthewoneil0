@@ -16,7 +16,7 @@ This is my ***personal GitHub***, where I share:
 
 ## 🧰 Tech Stack & Tools
 
-Here’s what I commonly use or tinker with:
+Here’s what I commonly use. More specific tooling is in my docs.
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
