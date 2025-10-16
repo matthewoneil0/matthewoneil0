@@ -2,7 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=matthewoneil0&label=Profile+Views)
 
-I'm a SOC 
 This is my ***personal GitHub***, where I share:
 
 - 🚧 Work-in-progress tools  
