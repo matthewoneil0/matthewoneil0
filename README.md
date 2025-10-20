@@ -11,7 +11,7 @@ This is my ***personal GitHub***, where I share:
 
 > ⚠️ **Disclaimer:** The content here is not affiliated with my employer. All opinions and code are my own.
 
-**My current focus:** [Malware Analysis](https://github.com/matthewoneil0/Malware-Analysis)
+## :dizzy: **Current focus:** [Malware Analysis](https://github.com/matthewoneil0/Malware-Analysis)
 
 ---
 
