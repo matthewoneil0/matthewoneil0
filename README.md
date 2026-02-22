@@ -12,9 +12,3 @@ This is my ***personal GitHub***, where I share:
 > ⚠️ **Disclaimer:** The content here is not affiliated with my employer. All opinions and code are my own.
 
 ### ⚡**Recent focus**: [CaminhoLoader to DcRat Infection Chain](https://github.com/matthewoneil0/Malware-Analysis/blob/main/CaminhoStealer/README.md)
-
----
-
-## 📊 GitHub Stats (***never super impressive***)
-
-![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewoneil0&show_icons=true&theme=vision-friendly-dark&count_private=true)
